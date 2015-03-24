@@ -11,8 +11,10 @@ version 0.0.1
 
 ## How to install
 
-1. Download this python scripts. [Download link](https://github.com/nrtkbb/nurbsToPolySp/archive/master.zip)
-1. Unzip and rename folder. `nurbsToPolySp-master.zip` → `nurbsToPolySp`
+1. Download this python scripts.  
+   [Download link](https://github.com/nrtkbb/nurbsToPolySp/archive/master.zip)
+1. Unzip and rename folder.  
+   `nurbsToPolySp-master.zip` → `nurbsToPolySp`
 1. Move folder in your scripts directory.
 
   - Windows  
