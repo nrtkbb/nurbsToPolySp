@@ -22,7 +22,7 @@ version 0.0.1
 
 1. Enter this script in Maya ScriptEditor python tab.
 ```python
-from nurbsToPolySp.nurbsToPolySp import NurbsToPolySpOptionsWindow
+from nurbsToPolySp.core import NurbsToPolySpOptionsWindow
 NurbsToPolySpOptionsWindow.showUI()
 ```
 
