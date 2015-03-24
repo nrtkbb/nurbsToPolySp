@@ -18,7 +18,7 @@ version 0.0.1
   - Windows  
     `¥Users¥<username>¥Documents¥maya¥scripts`
   - OS X  
-    `/Users/YOUR_ACCOUNT_NAME/Library/Preferences/Autodesk/maya/scripts`
+    `/Users/<username>/Library/Preferences/Autodesk/maya/scripts`
 
 1. Enter this script in Maya ScriptEditor python tab.
 ```python
