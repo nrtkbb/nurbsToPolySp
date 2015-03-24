@@ -9,7 +9,7 @@ version 0.0.1
 - Converted polygon's polygonType to Quads.
 - Converted polygon's tessellate will nurbsSurface's matchRenderTesselation.
 
-## How to install
+## How to use
 
 1. Download this python scripts.  
    [Download link](https://github.com/nrtkbb/nurbsToPolySp/archive/master.zip)
