@@ -23,9 +23,11 @@ version 0.0.1
     `/Users/<username>/Library/Preferences/Autodesk/maya/scripts`
 
 1. Enter this script in Maya ScriptEditor python tab.
-```python
-from nurbsToPolySp.core import NurbsToPolySpOptionsWindow
-NurbsToPolySpOptionsWindow.showUI()
-```
+
+    ```python
+    from nurbsToPolySp.core import NurbsToPolySpOptionsWindow
+    NurbsToPolySpOptionsWindow.showUI()
+    ```
+
 
 ![NurbsToPolySpOptionsWindow](images/NurbsToPolySpOptionsWindow.png)
